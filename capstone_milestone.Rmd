@@ -4,15 +4,12 @@ author: "Jovani Ntabgoba"
 date: "September 4, 2016"
 output: html_document
 ---
-http://rpubs.com/Sepanda/MilestoneReport 
 
-### Milestone Report: Swiftkey Project.
-## NLP (Natural Language Processing).
+
+### Milestone Report
+
 ### Summary
 This is an exploratory analysis of a word prediction app.
 This analysis uses a collection of text (corpora) composed of blogs,tweets and news from HC Corpora.
 
 This assignment 
-The data have been sourced from Capstone Dataset - Date: 16th November 2014. The series of files in this data set have been presented by Swiftkey and researchers at Johns Hopkins Dept of Biostatistics as part of a data science specialisation course on Coursera.
-
-The data itself is from a body of text called HC Corpora, which is a free corpora (body of text) available for research purposes.
